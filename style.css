@@ -1,0 +1,415 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+.collapse ul li:hover
+{
+	color:#00CCCC;
+}
+.benar
+{
+	 background-size:cover;
+  background-position: ;
+  height: 100vh;
+  min-height: 700px;
+  width: 100%;
+  background-repeat:no-repeat;
+
+	 
+	 
+}
+.t1 h1
+{
+	margin-top:250px;
+	font-family: "Abril Fatface", times, serif;
+
+	color: #FFFFFF;
+	font-size:75px;
+
+}
+.t1 p
+{
+	color:#FFFFFF;
+	font-size:30px;
+}
+.btn
+{
+	height:60px;
+	width:180px;
+	font-size:24px !important;
+	color:#FFFFFF;
+	text-align:center;
+	border:2px solid #FFFFFF !important;
+	background:transparent;
+	margin-top:30px;
+}
+.btn:hover
+{
+	background-color:#FFFFFF;
+	color:#000000;
+}
+
+.content
+{
+	height:800px;
+	width:100%;
+}
+
+.content img
+{
+	height:550px;
+	width:500px;
+	margin-top:100px;
+}
+.content h2
+{
+	margin-top:230px;
+	font-size:40px;
+	font-family: "Abril Fatface", times, serif;
+}
+.content p
+{
+	font-size:18px;
+	color: #999999;
+}
+.far-i
+{
+	color: #00CC66;
+	font-size:64px;
+	background:transparent;
+}
+.far-i:hover
+{
+	color: #000000;
+	font-size:64px;
+	background:transparent;
+}
+.content2
+{
+	height:950px;
+	width:100%;
+	background-color:#fafafa;
+	border-top:1px solid #e0e0e0;
+}
+.content2 h2
+{
+	font-family: "Abril Fatface", times, serif;
+	font-size:40px;
+	margin-top:100px;
+}
+.content2 p
+{
+	font-size:18px;
+	color: #999999;
+}
+.co1 img
+{
+	margin-top:50px;
+	height:150px;
+	width:150px;
+}
+.co2 img
+{
+	margin-top:50px;
+	height:150px;
+	width:150px;
+}
+.slider
+{
+	height:950px;
+	width:100%;
+}
+.slider h2
+{
+	font-family: "Abril Fatface", times, serif;
+	font-size:80px;
+	margin-top:100px;
+}
+.slider p
+{
+	font-size:20px;
+	color: #999999;
+}
+.carousel-inner
+{
+	box-shadow:-5px 20px 30px;
+}
+
+
+.content3
+{
+	background-color:#65c0ba;
+	height:1100px;
+	width:100%;
+}
+.content3 h2
+{
+	margin-top:350px;
+	font-family: "Abril Fatface", times, serif;
+	font-size:80px;
+}
+.content3 p
+{
+	font-size:20px;
+	color:#f8f9fa;
+}
+
+.card-deck
+{
+	height:400px;
+	width:1100px;
+}
+.card-body h5
+{
+	font-family: "Abril Fatface", times, serif;
+}
+.card-body p
+{
+	color:#CCCCCC;
+}
+
+.content4
+{
+	height:650px;
+	width:100%;
+	background-color:#fafafa;
+	border-top:1px solid #e0e0e0;
+}
+.content4 h2
+{
+	font-family:"Abril Fatface", times, serif;
+	font-size:70px;
+	margin-top:100px;
+}
+.cn1 img
+{
+	height:100px;
+	margin-top:50px;
+}
+.cn1 p
+{	
+	margin-top:20px;
+	font-size:20px;
+	font-style: italic;
+	font-family: "Mukta Mahee", arial, sans-serif;
+}
+.content5
+{
+	height:650px;
+	width:100%;
+	border-top:1px solid #e0e0e0;
+	
+}
+.content5 h2
+{
+	font-family:"Abril Fatface", times, serif;
+	font-size:70px;
+	margin-top:100px;
+}
+.content5 p
+{
+	font-family:"Abril Fatface", times, serif;
+	font-size:24px;
+	color:#CCCCCC;
+	
+}
+.content5 h3
+{
+	font-family:"Abril Fatface", times, serif;
+}
+.cn2 h3
+{
+	margin-top:10px;
+}
+
+.foot
+{
+	background-color:#000000;
+	height:650px;
+	width:100%;
+}
+.foot h3
+{
+	margin-top:150px;
+	color:#FFFFFF;
+	font-size:30px;
+}
+.foot ul li
+{
+	color:#CCCCCC;
+	list-style:none;
+	font-size:18px;
+	line-height:50px;
+	
+}
+.foot p
+{
+	color:#CCCCCC;
+}
+.foot2
+{
+	border-top:1px #CCCCCC;
+}
+.social
+{
+	color:#FFFFFF;
+	letter-spacing:10px;
+}
+.fab-i
+{
+	color:#FFFFFF;
+	font-size:18px;
+}
+
+
+
+
+
+
+@media (max-width: 480px) {
+
+
+	.t1 h1
+{
+	margin-top:250px;
+	font-family: "Abril Fatface", times, serif;
+
+	color: #FFFFFF;
+	font-size:50px;
+
+}
+.t1 p
+{
+	color:#FFFFFF;
+	font-size:20px;
+}
+.btn
+{
+	height:60px;
+	width:350px;
+	font-size:24px !important;
+	color:#FFFFFF;
+	text-align:center;
+	border:2px solid #FFFFFF !important;
+	background:transparent;
+}
+.btn:hover
+{
+	background-color:#FFFFFF;
+	color:#000000;
+}
+
+.content img
+{
+	height:450px;
+	width:350px;
+	margin-top:100px;
+}
+.content h2
+{
+	margin-top:50px;
+	font-size:40px;
+	font-family: "Abril Fatface", times, serif;
+}
+.content p
+{
+	font-size:18px;
+	color: #999999;
+}
+.far-i
+{
+	color: #00CC66;
+	font-size:64px;
+	background:transparent;
+}
+.far-i:hover
+{
+	color: #000000;
+	font-size:64px;
+	background:transparent;
+}
+.content2
+{
+	margin-top:300px;
+	height:2400px;
+	width:100%;
+	background-color:#fafafa;
+	border-top:1px solid #e0e0e0;
+}
+.slider h2
+{
+	font-family: "Abril Fatface", times, serif;
+	font-size:40px;
+	margin-top:100px;
+}
+.slider p
+{
+	font-size:15px;
+	color: #999999;
+}
+
+.content3
+{
+	background-color:#65c0ba;
+	height:1600px;
+	width:100%;
+	margin-top:-500px;
+}
+
+
+.content3 h2
+{
+	margin-top:350px;
+	font-family: "Abril Fatface", times, serif;
+	font-size:40px;
+}
+.content3 p
+{
+	font-size:10px;
+	color:#f8f9fa;
+}
+
+.card-deck
+{
+	margin-left:30px;
+	
+	height:400px;
+	width:300px;
+}
+.card-body h5
+{
+	font-family: "Abril Fatface", times, serif;
+}
+.card-body p
+{
+	color:#CCCCCC;
+}
+.content4
+{
+	height:1600px;
+	width:100%;
+	background-color:#fafafa;
+	border-top:1px solid #e0e0e0;
+}
+.content5
+{
+	height:1800px;
+	width:100%;
+	border-top:1px solid #e0e0e0;
+	
+}
+.foot
+{
+	background-color:#000000;
+	height:2100px;
+	width:100%;
+}
+
+
+
+
+
+
+
+}
