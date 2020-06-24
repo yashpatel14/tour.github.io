@@ -287,7 +287,7 @@
 .btn
 {
 	height:60px;
-	width:350px;
+	width:300px;
 	font-size:24px !important;
 	color:#FFFFFF;
 	text-align:center;
@@ -392,6 +392,14 @@
 	background-color:#fafafa;
 	border-top:1px solid #e0e0e0;
 }
+.content4 h2
+{
+	font-family:"Abril Fatface", times, serif;
+	font-size:50px;
+	margin-top:100px;
+}
+
+
 .content5
 {
 	height:1800px;
@@ -399,6 +407,14 @@
 	border-top:1px solid #e0e0e0;
 	
 }
+.content5 h2
+{
+	font-family:"Abril Fatface", times, serif;
+	font-size:50px;
+	margin-top:100px;
+}
+
+
 .foot
 {
 	background-color:#000000;
