@@ -3,12 +3,15 @@
 	margin:0;
 	padding:0;
 }
-.collapse ul li:hover
+.header
 {
-	color:#00CCCC;
+	height:100vh;
+	width:100%;
 }
+
 .benar
 {
+	background-image:url(images/hero_1.jpg);
 	 background-size:cover;
   background-position: ;
   height: 100vh;
@@ -270,6 +273,28 @@
 @media (max-width: 480px) {
 
 
+.benar
+{
+	 background-size:cover;
+  background-position: ;
+  height: 100vh;
+  min-height: 700px;
+  width: 100%;
+  background-repeat:no-repeat;
+
+	 
+	 
+}
+
+.header
+{
+	height:100vh;
+	width:100%;
+}
+
+
+
+
 	.t1 h1
 {
 	margin-top:250px;
@@ -299,11 +324,17 @@
 	background-color:#FFFFFF;
 	color:#000000;
 }
+.content
+{
+	height:800px;
+	width:100%;
+}
+
 
 .content img
 {
 	height:450px;
-	width:350px;
+	width:300px;
 	margin-top:100px;
 }
 .content h2
